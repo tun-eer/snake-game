@@ -1,4 +1,4 @@
-# Snake Game
+# Snake Game 🐍
 
 Play the classic snake game where the player maneuvers a growing line that becomes a primary obstacle to itself
 
