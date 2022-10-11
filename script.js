@@ -141,3 +141,6 @@ function resetScore(){
 	highscorediv = document.getElementById('high_score');
 	highscorediv.innerHTML = 'High Score : 0';
 }
+
+// next feature - to increase speed with time elapsed 
+// create a iteration object during game, every 5 times food is fetched(use modulus), increase speed of snake i.e. no.of cells jumped
